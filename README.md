@@ -146,6 +146,9 @@ I'm Falence Lemungoh, a backend-heavy software engineer with formal, univeristy,
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falence&layout=compact&hide=html,css&theme=dark)](https://github.com/falence/github-readme-stats)
 
+### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=falence.falence)
+
 ### How to reach me.
 [![Linkedin Badge](https://img.shields.io/badge/-Falence-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falence-lemungoh/)
 [![Twitter Badge](https://img.shields.io/badge/-@FalenceLemu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FalenceLemu)](https://twitter.com/FalenceLemu)
