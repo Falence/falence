@@ -8,6 +8,11 @@ I'm Falence Lemungoh, a backend-heavy software engineer with formal, univeristy,
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
 
+### How to reach me.
+[![Linkedin Badge](https://img.shields.io/badge/-Falence-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falence-lemungoh/)
+[![Twitter Badge](https://img.shields.io/badge/-@FalenceLemu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FalenceLemu)](https://twitter.com/FalenceLemu)
+[![Mail Badge](https://img.shields.io/badge/-falencelemungoh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:falencelemungoh@gmail.com)
+
 ### 🛠 Languages and Tools
 <p align="left">
    <a href="https://reactjs.org/" target="_blank">
@@ -140,7 +145,26 @@ I'm Falence Lemungoh, a backend-heavy software engineer with formal, univeristy,
       height="40"
     />
   </a>
+
+  <a href="https://redis.io/" target="_blank">
+    <img
+      src="https://redis.io/images/redis-white.png"
+      alt="aws"
+      height="40"
+      width="auto"
+    />
+  </a>
+   
+   <a href="https://www.openapis.org/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"
+      alt="aws"
+      height="40"
+      width="auto"
+    />
+  </a>
 </p>
+
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=falence&count_private=true&show_icons=true&theme=dark)](https://github.com/falence/github-readme-stats) <br>
 
@@ -149,7 +173,4 @@ I'm Falence Lemungoh, a backend-heavy software engineer with formal, univeristy,
 ### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=falence.falence)
 
-### How to reach me.
-[![Linkedin Badge](https://img.shields.io/badge/-Falence-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falence-lemungoh/)
-[![Twitter Badge](https://img.shields.io/badge/-@FalenceLemu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FalenceLemu)](https://twitter.com/FalenceLemu)
-[![Mail Badge](https://img.shields.io/badge/-falencelemungoh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:falencelemungoh@gmail.com)
+
