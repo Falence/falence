@@ -13,7 +13,7 @@ I'm Falence Lemungoh, a backend-heavy software engineer with formal, univeristy,
 [![Twitter Badge](https://img.shields.io/badge/-@FalenceLemu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FalenceLemu)](https://twitter.com/FalenceLemu)
 [![Mail Badge](https://img.shields.io/badge/-falencelemungoh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:falencelemungoh@gmail.com)
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Tools Worked With
 <p align="left">
    <a href="https://reactjs.org/" target="_blank">
     <img
@@ -169,6 +169,21 @@ I'm Falence Lemungoh, a backend-heavy software engineer with formal, univeristy,
 [![My github stats](https://github-readme-stats.vercel.app/api?username=falence&count_private=true&show_icons=true&theme=dark)](https://github.com/falence/github-readme-stats) <br>
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falence&layout=compact&hide=html,css&theme=dark)](https://github.com/falence/github-readme-stats)
+
+### Porfolio Projects
+- [Auctions App](https://master.d1vti23hktrr8m.amplifyapp.com/) (Microservice Architecture) <br/>
+This application is a platform that hosts sellers and bidders. Sellers post items and bidders can place bids on the items. The duration for an auction is 1 hour and is then closed. The seller of an auction, and bidder with the highest bid will receive emails when an auction is closed. <br/>
+This application was built following the microservice architecture using serverless framework and Amazon Web Services (AWS). This application is made up of three(3) services: auth-service, auction-service and the notification-service. <br/><br/>
+**Features:** Authentication(Auth0 and email), Authorization, Email notification and auctions processing. <br/>
+**Technology and Tools:** NodeJs(ExpressJs), Auth0, AWS(lambda, dynamoDB, SQS, SNS, S3, amplify, CloudFormation, CloudWatch) with the serverless framework. <br/>
+**Github**: [Auth-service](https://github.com/Falence/auth-microservice), [Auction-service](https://github.com/Falence/auction-microservice) and [notification-service](https://github.com/Falence/notification-microservice)<br/><br/>
+
+
+- [Natours App](https://natours-falence.herokuapp.com/) (Tour Booking Application) <br/>
+This application is a tour booking application that permits its users browse through available tours and book tours. On sign up the user receives a welcome email and on password reset the user receives an email with a reset link. Tour booking payments are processed with Stripe.<br/><br/>
+**Features:** authentication, authorization, email notification, payments with Stripe, map rendering with MapBox and profile photo processing. <br/>
+**Technology and Tools:** HTML, CSS, JavaScript, NodeJs(ExpressJs), MongoDB, Stripe, SendGrid and Mapbox. <br/>
+**Github**: [Source code](https://github.com/Falence/natours)<br/><br/>
 
 ### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=falence.falence)
