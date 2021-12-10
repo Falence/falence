@@ -2,7 +2,7 @@
 I'm Falence Lemungoh, a backend-heavy software engineer with formal, univeristy, software engineering training. I'm passionate about growing and learning  from others. 💡
 
 - 🔭 I’m currently working on My Technical Skills.
-- 🌱 I’m currently learning backend development with JavaScript and Golang.
+- 🌱 I’ve been learning backend development with JavaScript for a while and decided to try Golang too.
 - 👯 I’m looking to collaborate on projects as a Backend Engineer, remotely.
 - ⚡ Fun fact: I'm an adent learner and with time, I can learn anything.
 <!-- - 💬 Ask me about ... -->
