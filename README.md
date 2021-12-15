@@ -1,6 +1,6 @@
 ## Hi there, I'm Falence 😃
 I'm Falence Lemungoh, a backend-heavy software engineer with formal, university, software engineering training. I'm passionate about growing and learning  from others. 💡<br/>
-I'm also an open source contributor at [Zuri Chat](https://www.zuri.chat/).
+I'm also an open source contributor at ZuriChat ([Live link](https://www.zuri.chat/) || [Github link](https://github.com/zurichat/)).
 
 - 🔭 I’m currently working on my technical skills.
 - 🌱 I’ve been learning backend development with JavaScript for a while and decided to pickup Golang too.
@@ -171,7 +171,7 @@ I'm also an open source contributor at [Zuri Chat](https://www.zuri.chat/).
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falence&layout=compact&hide=html,css&theme=dark)](https://github.com/falence/github-readme-stats)
 
-### Porfolio Projects
+### 3 Outstanding Porfolio Projects
 - [Auctions App](https://master.d1vti23hktrr8m.amplifyapp.com/) (Microservice Architecture) <br/>
 This application is a platform that hosts sellers and bidders. Sellers post items and bidders can place bids on the items. The duration for an auction is 1 hour and is then closed. The seller of an auction, and bidder with the highest bid will receive emails when an auction is closed. <br/>
 This application was built following the microservice architecture using serverless framework and Amazon Web Services (AWS). This application is made up of three(3) services: auth-service, auction-service and the notification-service. <br/><br/>
