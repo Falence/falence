@@ -1,5 +1,5 @@
 ## Hi there, I'm Falence 😃
-I'm Falence Lemungoh, a backend-heavy software engineer with formal, univeristy, software engineering training. I'm passionate about growing and learning  from others. 💡
+I'm Falence Lemungoh, a backend-heavy software engineer with formal, university, software engineering training. I'm passionate about growing and learning  from others. 💡
 
 - 🔭 I’m currently working on My Technical Skills.
 - 🌱 I’ve been learning backend development with JavaScript for a while and decided to try Golang too.
@@ -185,11 +185,14 @@ This application is a tour booking application that permits its users browse thr
 **Technology and Tools:** HTML, CSS, JavaScript, NodeJs(ExpressJs), MongoDB, Stripe, SendGrid and Mapbox. <br/>
 **Github**: [Source code](https://github.com/Falence/natours)<br/><br/>
 
+
 - [GasMe App](https://gas-and-me-api.herokuapp.com/api-docs/) (Backend Application) <br/>
-GasMe i.<br/><br/>
-**Features:** authentication, authorization, email notification, payments with Stripe, map rendering with MapBox and profile photo processing. <br/>
-**Technology and Tools:** HTML, CSS, JavaScript, NodeJs(ExpressJs), MongoDB, Stripe, SendGrid and Mapbox. <br/>
-**Github**: [Source code](https://github.com/Falence/natours)<br/><br/>
+I collaborated with a team of 5 developers and worked on server-side code, database modelling and built Restful APIs for the GasMe application aimed at providing a platform for consumers, retailers and bulk sellers of Liquid Petroleum Gas (Cooking gas) in Nigeria.<br/>
+Also, Implemented the image processing module for the application where after images are processed they're uploaded to Google Drive and can be access anytime within the application.<br/>
+Wrote documentation using the Open API (Swagger) specification..<br/><br/>
+**Features:** authentication, authorization, database modelling and profile photo processing. <br/>
+**Technology and Tools:** NodeJs(ExpressJs), MongoDB, Open Api (Swagger Docs) Google Photos. <br/>
+**Github**: [Source code](https://github.com/zuri-training/gasme-be-pjt-3/tree/dev)<br/><br/>
 
 ### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=falence.falence)
