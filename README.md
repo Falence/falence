@@ -8,6 +8,7 @@ I'm also an open source contributor at ZuriChat ([Live link](https://www.zuri.ch
 - ⚡ Fun fact: I'm an adent learner and with time, I can learn anything.
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
+Kindly checkout my LinkedIn profile.
 
 ### How to reach me.
 [![Linkedin Badge](https://img.shields.io/badge/-Falence-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falence-lemungoh/)
