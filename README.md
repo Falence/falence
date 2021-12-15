@@ -1,5 +1,6 @@
 ## Hi there, I'm Falence 😃
-I'm Falence Lemungoh, a backend-heavy software engineer with formal, university, software engineering training. I'm passionate about growing and learning  from others. 💡
+I'm Falence Lemungoh, a backend-heavy software engineer with formal, university, software engineering training. I'm passionate about growing and learning  from others. 💡<br/>
+I'm also an open source contributor at [Zuri Chat](https://www.zuri.chat/).
 
 - 🔭 I’m currently working on My Technical Skills.
 - 🌱 I’ve been learning backend development with JavaScript for a while and decided to try Golang too.
