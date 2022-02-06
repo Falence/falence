@@ -2,9 +2,9 @@
 I'm Falence Lemungoh, a backend-heavy software engineer with formal, university, software engineering training. I'm passionate about growing and learning  from others. 💡<br/>
 I'm also an open source contributor at ZuriChat ([Live link](https://www.zuri.chat/) || [Github link](https://github.com/zurichat/)).
 
-- 🔭 I’m currently working on my technical skills.
-- 🌱 I’ve been learning backend development with JavaScript for a while and decided to pickup Golang too.
-- 👯 I’m looking to collaborate on projects as a Backend Engineer, remotely.
+<!-- - 🔭 I’m currently working on my technical skills.👯 --> 
+- 🌱 I solve problems with Golang and Js/TypeScript.
+- 🔭 I’m open to remote Backend engineering roles.
 - ⚡ Fun fact: I'm an adent learner and with time, I can learn anything.
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
